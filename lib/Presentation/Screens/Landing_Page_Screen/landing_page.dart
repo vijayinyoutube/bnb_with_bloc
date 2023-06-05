@@ -26,21 +26,11 @@ List<BottomNavigationBarItem> bottomNavItems = const <BottomNavigationBarItem>[
 ];
 
 const List<Widget> bottomNavScreen = <Widget>[
-  Text(
-    'Index 0: Home',
-  ),
-  Text(
-    'Index 1: Category',
-  ),
-  Text(
-    'Index 2: Search',
-  ),
-  Text(
-    'Index 3: Favourite',
-  ),
-  Text(
-    'Index 4: Cart',
-  ),
+  Text('Index 0: Home'),
+  Text('Index 1: Category'),
+  Text('Index 2: Search'),
+  Text('Index 3: Favourite'),
+  Text('Index 4: Cart'),
 ];
 
 class LandingPage extends StatelessWidget {
