@@ -30,10 +30,10 @@ const List<Widget> bottomNavScreen = <Widget>[
     'Index 0: Home',
   ),
   Text(
-    'Index 1: Business',
+    'Index 1: Category',
   ),
   Text(
-    'Index 2: School',
+    'Index 2: Search',
   ),
   Text(
     'Index 3: Favourite',
