@@ -1,5 +1,5 @@
 
-# <div align="center"> BNB using Bloc </div>
+# <div align="center"> Bottom Navigation Bar using Bloc </div>
 
 <div align="center">
   
