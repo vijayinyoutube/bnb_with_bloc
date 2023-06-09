@@ -23,7 +23,7 @@
 
 <p align="center">
 
-[<img src="https://github.com/vijayinyoutube/bnb_with_bloc/assets/58719230/e9c5a8db-885f-40c0-b137-2ee8a9797cd7" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
+[<img src="https://github.com/vijayinyoutube/bnb_with_bloc/assets/58719230/c4dffe66-850f-48b3-b070-6fa39a451ed8" width="100%">](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
 </p>
 
